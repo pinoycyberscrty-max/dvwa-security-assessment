@@ -1,0 +1,13 @@
+[*] Crawling http://dvwa:80/...
+302 - http://dvwa/ -> login.php
+200 - http://dvwa/login.php
+404 - http://dvwa/test/
+404 - http://dvwa/tmp/
+404 - http://dvwa/stuff/
+404 - http://dvwa/awstats/
+404 - http://dvwa/awstats/awstats/
+404 - http://dvwa/basilic/
+404 - http://dvwa/cacti/
+404 - http://dvwa/docs/html/php_script_server.html
+404 - http://dvwa/docs/CHANGELOG
+404 - http://dvwa/docs/text/manual.txt
